@@ -25,5 +25,12 @@ const carDmytro = {
   color: 'blue',
   name: 'MyCar',
   maxSpeed: '220',
-  model:'mustang'
+  model: 'mustang'
+};
+
+const carOlena = {
+  color: 'white',
+  name: 'audi',
+  maxSpeed: '180',
+  model: 'A6'
 };
